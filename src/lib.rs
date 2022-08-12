@@ -30,7 +30,6 @@ fn dijkstra(
     while !open_set.is_empty() {
         let empty_vec = Vec::new();
         if let Some(Reverse(heap_top)) = open_set.pop() {
-
             let current = heap_top.1;
 
             if current == goal {
