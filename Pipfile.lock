@@ -1,0 +1,47 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d2c9a4c85fa724eab2a7813c9356257ccb697d85a7a7e407ac9f0b47ce7a1061"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "maturin": {
+            "hashes": [
+                "sha256:3c7890ee95973e474440e41f366aa906a96caa61b8ecfab7e9913beb0d76a73b",
+                "sha256:501ad926d3b6f8b4c8cf2c3513616f72b77a060548dea9d6a7aef1245202e429",
+                "sha256:7a60f5c1040985ef56b254f2c32f71dbf4ac11db0cc7cf80f0aeca6bd24cf324",
+                "sha256:89a475f9a9ad1072ce0e0525699787a9c3186c5850ba4e1b23fb2fa10586d1c2",
+                "sha256:a3aa3be37cff22b4309f1984f07b782d28b39e60dcb381b1b29f938e5fd2ed56",
+                "sha256:aef6e00e9eb4bdcbd10fda01247f3503354ae9b599b46bd4e55a14ea45b40915",
+                "sha256:b687d45b43b5292b141a06414cb6ac352f5df5eb74adad9b489d91912ae4eeca",
+                "sha256:b68b15ffc5072b3a24f5c4147cdf391410475e005bd77b874af4b43816bc5afa",
+                "sha256:c1927dbb9d1137e169beb06899a19fe5acd03bcd831d9a2cc008ffcfd854cb6e",
+                "sha256:c36d5762e9d73eef3ca899225d2c8ad8373d9202908cbf598a295def952c98f6",
+                "sha256:d6086970da37bd8a0d06eb9c31197c25fbb4c82257b9a385786ce54e8b05071d",
+                "sha256:e156b0a358133ad6fd75abc4ddd424c193564b05eb2f6f2ecbccc827c3d4cffe"
+            ],
+            "index": "pypi",
+            "version": "==0.13.1"
+        },
+        "tomli": {
+            "hashes": [
+                "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc",
+                "sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f"
+            ],
+            "markers": "python_version < '3.11'",
+            "version": "==2.0.1"
+        }
+    },
+    "develop": {}
+}
